@@ -7,3 +7,6 @@
 <img src="./result/cGAN.png">
 
 ### DCGAN
+
+### Pix2Pix
+<img src="./result/pix2pix.png">
