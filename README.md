@@ -10,3 +10,7 @@
 
 ### Pix2Pix
 <img src="./result/pix2pix.png">
+
+### DiscoGAN
+
+### CycleGAN
